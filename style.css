@@ -1,0 +1,17 @@
+.borderless.topmenu.container.menu{
+  border: none;
+  box-shadow: none;
+
+}
+.right.menu{
+  border: none;
+  box-shadow: none;
+}
+.ui.image.item{
+  height: 100px;
+}
+.grad-background {
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
